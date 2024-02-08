@@ -1,4 +1,4 @@
 # Demo-repo
 first repository
 <br>
-Author: Kunal Salunke.
+Author: Kunal Salunke
